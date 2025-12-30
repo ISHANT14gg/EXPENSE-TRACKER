@@ -169,20 +169,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Login Page
-![Login](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Login+Page)
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/50C878/FFFFFF?text=Expense+Dashboard)
-
-</div>
-
----
-
 ## 📈 Future Enhancements
 
 - 📊 **Expense Analytics** - Visual charts and graphs
